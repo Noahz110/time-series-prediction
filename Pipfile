@@ -12,6 +12,8 @@ numpy = "*"
 matplotlib = "*"
 statsmodels = "==0.10.1"
 fbprophet = "*"
+gluonts = "==0.4.2"
+ipython = "*"
 
 [requires]
 python_version = "3.6"
